@@ -5,7 +5,7 @@
 
 |               |                           |
 |---------------|--------------------------:|
-| Dimensions    | 47.0 x 10.0 mm ~ 0.8 sqin |
+| Dimensions    | 30.5 x 11.0 mm ~ 0.6 sqin |
 | Voltage (in)  | 24 V ±10%                 |
 | Voltage (out) | 5 V ±5%                   |
 | Current (out) | 600 mA                    |

@@ -1,4 +1,4 @@
-## 24VAC to 5VDC ##
+## 24VAC to 5VDC Test ##
 
 
 ### Properties ###

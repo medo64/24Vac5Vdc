@@ -15,7 +15,7 @@
 
 |  # | Part                                      | RefDes  | DigiKey Part Number | TME Part Number |
 |---:|-------------------------------------------|---------|---------------------|-----------------|
-|  1 | C 100nF X7R 50V (0805)                    | C1      | 478-5311-1-ND       |                 |
+|  1 | C 100nF X7R 50V (0603)                    | C1      | 1276-1941-1-ND      |                 |
 |  4 | C 10uF X5R 50V (1206)                     | C2-C5   | 1276-2876-1-ND      |                 |
 |  1 | C 220uF Aluminium 50V (d10x16)            | C6      | 493-1356-ND         | UVZ1J221MPD     |
 |  1 | D Bridge 0.5A 35Vrms (SOIC-4)             | D1      | MB1SCT-ND           | MB1S-LGE        |
